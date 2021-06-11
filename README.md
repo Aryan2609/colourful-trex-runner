@@ -1,1 +1,1 @@
-# colourful-trex-runner
+# colourtrex
